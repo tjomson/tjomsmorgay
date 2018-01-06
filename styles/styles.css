@@ -1,11 +1,11 @@
 h1 {
-	color: black; 
+	color: orange; 
 	font-size: 25px; 
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 		 
 h2 {
-	color: black; 
+	color: green; 
 	font-size: 35px; 
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
@@ -66,7 +66,7 @@ button {
 	
 }
 body {
-    background-image: url("/img/kasper.jpg");
+    background-image: url(http://patentimages.storage.googleapis.com/WO2007146948A2/imgf000028_0002.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
